@@ -1,3 +1,3 @@
 # simpleToDoList
 
-Simple to-do list with operations of add and see and delete To Do.
+Simple to-do list with operations of add, see, and delete To Do.
